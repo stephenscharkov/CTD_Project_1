@@ -1,7 +1,7 @@
 # CTD_Project_1
 
 # Inports
-...
+'''
 import pandas as pd
 import glob
 import numpy as np
@@ -15,7 +15,7 @@ import time
 import datetime 
 %matplotlib notebook
 Data
-...
+'''
 CTD_1_S_Data=pd.read_csv('1OregonShelfSurfacePiercingProfilerMooringSummer.csv')
 CTD_1_W_Data=pd.read_csv('1OregonShelfSurfacePiercingProfilerMooringWinter.csv')
 
