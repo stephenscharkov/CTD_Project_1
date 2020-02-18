@@ -2,7 +2,10 @@
 
 # Introduction
 
-    For this project we were tasked in righing a python code that will anyaize data from a profiler and determine different infoation about that that. The following code will calcuate the number dives seen in a day, will plot depth vs time, will plot Speed of Sound vs Depth, will plot Speed of Sound vs Time, ilastrate the inforation need for day vs night comparisons, and Seasonal compations of water properties. 
+    For this project we were tasked in righing a python code that will anyaize data from a profiler and determine different infoation
+    about that that. The following code will calcuate the number dives seen in a day, will plot depth vs time, will plot Speed 
+    of Sound vs Depth, will plot Speed of Sound vs Time, ilastrate the inforation need for day vs night comparisons,
+    and Seasonal compations of water properties. 
 
 # Inports
 
