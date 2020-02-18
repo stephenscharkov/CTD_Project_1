@@ -178,6 +178,8 @@
     CTD_7_S_Dives = getNumberOfDives(CTD_7_S, "CTD 7 Summer")
     CTD_7_W_Dives = getNumberOfDives(CTD_7_W, "CTD 7 Winter")
 
+# Averageing the Data
+
     def AvgData(Data):
     
         Depth=Data[1]
@@ -209,6 +211,8 @@
             
         return OutputDepth , OutputSpeed
     
+# Averaging Data test
+   
         def AvgDatatest(Data):
         Depth=Data[1]
         Speed=Data[4]
@@ -232,7 +236,9 @@
                 OutputSpeed.append(Output[i][1]/Output[i][2])
         return OutputDepth , OutputSpeed
     
-    
+
+# Ploting the Average Data
+
         def AvgDataPlot (Data,name, n):
         plt.figure(n)
         plt.scatter(Data[4],Data[1])
@@ -274,6 +280,8 @@
     AvgDataPlot(CTD_7_W,"CTD 7 Winter",28)
     print("out")
 
+# Max Values
+
     maxSummer_temp= max(CTD_1_S[4]),max(CTD_2_S[4]),max(CTD_3_S[4]),max(CTD_4_S[4]),max(CTD_5_S[4]),max(CTD_6_S[4]),max(CTD_7_S[4])
     print(maxSummer_temp)
     maxSummer= max(maxSummer_temp)
@@ -283,6 +291,8 @@
     print(maxWinter_temp)
     maxWinter= max(maxWinter_temp)
     print(maxWinter)
+
+# Ploting Day vs Night
 
     def plotDayandNight (data, name, n):
     
