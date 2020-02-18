@@ -15,8 +15,7 @@ import time
 import datetime 
 %matplotlib notebook
 
-# 
-Data
+# Data
 
 CTD_1_S_Data=pd.read_csv('1OregonShelfSurfacePiercingProfilerMooringSummer.csv')
 CTD_1_W_Data=pd.read_csv('1OregonShelfSurfacePiercingProfilerMooringWinter.csv')
