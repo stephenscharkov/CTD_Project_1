@@ -390,9 +390,6 @@
     5.	Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location)
         •	This information was found on the OOI Website. The trend that was noticed was that when the profiler is closer to the speed             of sound will become faster as it approaches the surface of the water in the summer seasonsthe equator the depth of the                 speed of sound in increase, or will move farther way form the surface of the water. 
         
+# References
 
-
-
-    
-
-    
+    https://ooinet.oceanobservatories.org/
