@@ -374,5 +374,25 @@
 # Concluation 
 
 
-    The 
+    1.	Compare the number of dives per day of the shallow profiler vs deep profiler (1points)
+        •	The Shallow CTD are 1,2,4,6 and the Deep CTD are 3,5,7 
+    2.	Where is the maximum value of sspin each season? Explain why the max ssp should be there?
+        •	We can see from the data that the profiler in Oregon Slope Base Shallow Profiler Mooring Summer is 
+        the fastest speed. This is most likely due the latitude of the profiler in comparison to the rest of the CTD’s. The 
+            same can be said out the Oregon Slope Base Deep Profiler Mooring Winter. 
+    3.	Compare the ssp profile in day and night of all profilers, explain what you find(effect of day vs night)
+        •	We can see during the nighttime of the graphs that the Speed of sound will become closer to the surface 
+            because of the colder temperatures. All data was taken  from the midnight and stopped at midnight, 
+            so the tail ends of the graphs are night. 
+        
+    4.	Compare the ssp profile in summer and winter of all profilers, explain what you find(effect of season)
+        •	From the graphs given below we can tell that during the summer the speed of sound is deeper in the water and                             during the winter mounts the speed of sound will become closer to the surface of the water.
+    5.	Compare the average ssp profiles of all profilers recorded at the same day in winter and summer (effect of location)
+        •	This information was found on the OOI Website. The trend that was noticed was that when the profiler is closer to the speed             of sound will become faster as it approaches the surface of the water in the summer seasonsthe equator the depth of the                 speed of sound in increase, or will move farther way form the surface of the water. 
+        
+
+
+
+    
+
     
